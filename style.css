@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #000000;
+    color: #333;
+    line-height: 1.6;
+}
+
+.titulo {
+    background-color: #000000;
+    color: rgb(104, 2, 171);
+    text-align: center;
+    padding: 30px 20px;
+    margin-bottom: 25px;
+    font-size: 36px;
+}
+
+.imagem {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #1a1a1a;
+}
+        
+.imagem img {
+    
+    max-width: 60%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    border: 5px solid #4f0076;   
+}
+
+.conteudo {
+    background-color:#000000;
+    color: #aa01ff;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+}
+
+.sobre h2{
+    text-align: center;
+    background-color:#000000;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  justify-content: space-evenly;
+}
+
+.container img{
+
+    height: auto;
+    width: 135px;
+    border-radius: 10px;
+    margin:20px;
+}
+.moletons h3{
+    text-align: center;
+}
+
+.moletons{
+    background: linear-gradient(to right, #000000, #4f0076);
+    color: #aa01ff;
+    text-align: center;
+    padding: 30px 20px;
+    margin-bottom: 25px;
+    font-size: 36px;
+    padding: 1%;
+}
+
+.container2 {
+  display: flex;
+  gap: 20px;
+  justify-content: space-evenly;
+}
+
+.container2 img{
+
+    height: auto;
+    width: 135px;
+    border-radius: 10px;
+    margin:20px;
+}
+
+.camisas h3{
+    text-align: center;
+}
+
+.camisas{
+    background: linear-gradient(to right, #000000, #4f0076);
+    color: #aa01ff;
+    text-align: center;
+    padding: 30px 20px;
+    margin-bottom: 25px;
+    font-size: 36px;
+    padding: 1%;
+}
+
+.container3 {
+  display: flex;
+  gap: 20px;
+  justify-content: space-evenly;
+}
+
+.container3 img{
+
+    height: auto;
+    width: 135px;
+    border-radius: 10px;
+    margin:20px;
+}
+
+.CALÇADOS h3{
+    text-align: center;
+}
+
+.CALÇADOS{
+    background: linear-gradient(to right, #000000, #4f0076);
+    color: #aa01ff;
+    text-align: center;
+    padding: 30px 20px;
+    margin-bottom: 25px;
+    font-size: 36px;
+    padding: 1%;
+}
+
+.p{
+    text-align: center;
+}
+
+.t{
+    text-align: center;
+}
+
+.tabela img{
+    height: auto;
+    width: 100px;
+    border-radius: 10px;
+    margin:20px;
+}
+
+table{
+    color:rgb(255, 255, 255);
+    border-color: rgb(156, 7, 255);
+    background-color: rgb(41, 0, 53);
+    margin: 5px;
+    width:100%;
+    padding: 30px 20px;
+    margin-bottom: 25px;
+} 
+.tabela h1{
+    text-align: center;
+}
+
+.tabela2 img{
+    height: auto;
+    width: 100px;
+    border-radius: 10px;
+    margin:20px;
+}
+
+table{
+    color:rgb(255, 255, 255);
+    border-color: rgb(156, 7, 255);
+    background-color: rgb(41, 0, 53);
+    margin: 5px;
+    width:100%;
+    padding: 30px 20px;
+    margin-bottom: 25px;
+} 
+.tabela2 h1{
+    text-align: center;
+}
+
+
+
+
+.tabela3 img{
+    height: auto;
+    width: 100px;
+    border-radius: 10px;
+    margin:20px;
+}
+
+table{
+    color:rgb(255, 255, 255);
+    border-color: rgb(156, 7, 255);
+    background-color: rgb(41, 0, 53);
+    margin: 5px;
+    width:100%;
+    padding: 30px 20px;
+    margin-bottom: 25px;
+} 
+.tabela3 h1{
+    text-align: center;
+}
+
+tr:hover td{
+    background-color: rgba(62, 0, 119, 0.406);
+}
+
+        .footer {
+            background-color: #4300a8;
+            color: white;
+            text-align: center;
+            padding: 25px;
+            margin-top: 40px;
+            font-size: 16px;
+        }
+        
+        .footer-contato {
+            margin-top: 15px;
+        }
